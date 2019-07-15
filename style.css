@@ -116,6 +116,7 @@ background-color: #0BADA6 !important;
     margin: inherit; 
     background-color: white;  
 }
+    
 .navbar-brand{
     padding: 10px !important; 
 }
@@ -123,10 +124,9 @@ background-color: #0BADA6 !important;
 button{
     margin-right: 30px; 
 }
-button:focus {
-
-    outline: 1px dotted;
-    outline: 5px auto -webkit-focusring-color;
     
+button:focus {
+    outline: 1px dotted;
+    outline: 5px auto -webkit-focusring-color;   
     }
 }
